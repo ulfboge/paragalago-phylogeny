@@ -12,9 +12,9 @@ Authors: Johan Karlsson, Andrew Perkin, Cristiano Vernesi, Simon K. Bearder
 
 The manuscript is maintained in **Google Docs** — not as a file in this repository.
 
-**[Open manuscript in Google Drive →](manuscript/GOOGLE_DOC.md)**
+**[Open manuscript in Google Docs →](https://docs.google.com/document/d/1pMebmT2tvqQMpEa4pEL9EHxDGD09J9KGDEMyW29rgm0/edit?usp=sharing)**
 
-See [`manuscript/GOOGLE_DOC.md`](manuscript/GOOGLE_DOC.md) for the primary document link, section documents, and instructions to set a direct `docs.google.com` edit URL.
+Section documents and notes: [`manuscript/GOOGLE_DOC.md`](manuscript/GOOGLE_DOC.md)
 
 Related active work (StarBEAST3, QGIS, markdown exports): [github.com/ulfboge/galagos](https://github.com/ulfboge/galagos)
 

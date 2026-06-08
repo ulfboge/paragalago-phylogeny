@@ -4,11 +4,9 @@ The manuscript is authored and maintained in **Google Docs**. This repository ho
 
 ## Primary manuscript
 
-**[Multilocus Species-Tree Reconstruction Reveals Deep Lineage Structure in East African Dwarf Galagos (Paragalago)](https://drive.google.com/drive/search?q=Multilocus%20Species-Tree%20Reconstruction%20Paragalago)**
+**[Multilocus Species-Tree Reconstruction Reveals Deep Lineage Structure in East African Dwarf Galagos (Paragalago)](https://docs.google.com/document/d/1pMebmT2tvqQMpEa4pEL9EHxDGD09J9KGDEMyW29rgm0/edit?usp=sharing)**
 
-Open the search result titled *Multilocus Species-Tree Reconstruction Reveals Deep Lineage Structure in East African Dwarf Galagos (Paragalago)* in Google Drive, then use **Share → Copy link** to obtain a direct edit URL.
-
-> **Tip:** Once you have the direct link (`https://docs.google.com/document/d/.../edit`), paste it into this file and commit so collaborators can open the doc in one click from GitHub.
+Direct edit link: `https://docs.google.com/document/d/1pMebmT2tvqQMpEa4pEL9EHxDGD09J9KGDEMyW29rgm0/edit`
 
 ## Section documents (Google Drive)
 
