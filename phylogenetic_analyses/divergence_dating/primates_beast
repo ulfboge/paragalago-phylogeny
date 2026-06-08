@@ -1,0 +1,109 @@
+
+                  BEAST v1.8.1, 2002-2014
+       Bayesian Evolutionary Analysis Sampling Trees
+                 Designed and developed by
+   Alexei J. Drummond, Andrew Rambaut and Marc A. Suchard
+                              
+               Department of Computer Science
+                   University of Auckland
+                  alexei@cs.auckland.ac.nz
+                              
+             Institute of Evolutionary Biology
+                  University of Edinburgh
+                     a.rambaut@ed.ac.uk
+                              
+              David Geffen School of Medicine
+           University of California, Los Angeles
+                     msuchard@ucla.edu
+                              
+                Downloads, Help & Resources:
+                 	http://beast.bio.ed.ac.uk
+                              
+Source code distributed under the GNU Lesser General Public License:
+            	http://code.google.com/p/beast-mcmc
+                              
+                     BEAST developers:
+	Alex Alekseyenko, Guy Baele, Trevor Bedford, Filip Bielejec, Erik Bloomquist, Matthew Hall,
+	Joseph Heled, Sebastian Hoehna, Denise Kuehnert, Philippe Lemey, Wai Lok Sibon Li,
+	Gerton Lunter, Sidney Markowitz, Vladimir Minin, Michael Defoin Platel,
+          	Oliver Pybus, Chieh-Hsi Wu, Walter Xie
+                              
+                         Thanks to:
+    	Roald Forsberg, Beth Shapiro and Korbinian Strimmer
+
+BEAGLE not installed/found
+
+
+Random number seed: 1419079453221
+
+Failed to load BEAGLE library: no hmsbeagle-jni in java.library.path
+Failed to load BEAGLE library: no hmsbeagle-jni in java.library.path
+
+
+Loading additional development parsers from development_parsers.properties, which is additional set of parsers only available for development version ...
+
+Parsing XML file: primates.xml
+  File encoding: MacRoman
+Looking for plugins in /Users/JK/Dropbox/Phylogeny/Divergence Dating (Primates) v1.2a/plugins
+Read alignment: alignment1
+  Sequences = 12
+      Sites = 449
+   Datatype = nucleotide
+Read alignment: alignment2
+  Sequences = 12
+      Sites = 449
+   Datatype = nucleotide
+Site patterns 'firsthalf.patterns' created from positions 1-449 of alignment 'alignment1'
+  unique pattern count = 227
+Site patterns 'secondhalf.patterns' created from positions 1-449 of alignment 'alignment2'
+  unique pattern count = 231
+Using Yule prior on tree
+Creating the tree model, 'treeModel'
+  initial tree topology = ((((((((M_fascicularis,Pongo),Pan),(M_sylvanus,Saimiri_sciureus)),Hylobates),(Gorilla,M_mulatta)),Macaca_fuscata),(Homo_sapiens,Tarsius_syrichta)),Lemur_catta)
+  tree height = 158.13052320198653
+Using discretized relaxed clock model.
+  over sampling = 1
+  parametric model = logNormalDistributionModel
+   rate categories = 1
+Creating state frequencies model 'firsthalf.freFailed to load BEAGLE library: no hmsbeagle-jni in java.library.path
+Fatal exception: No acceptable BEAGLE library plugins found. Make sure that BEAGLE is properly installed or try changing resource requirements.
+java.lang.RuntimeException: No acceptable BEAGLE library plugins found. Make sure that BEAGLE is properly installed or try changing resource requirements.
+	at beagle.BeagleFactory.loadBeagleInstance(Unknown Source)
+	at dr.app.beagle.evomodel.treelikelihood.BeagleTreeLikelihood.<init>(Unknown Source)
+	at dr.app.beagle.evomodel.parsers.BeagleTreeLikelihoodParser.createTreeLikelihood(Unknown Source)
+	at dr.app.beagle.evomodel.parsers.BeagleTreeLikelihoodParser.parseXMLObject(Unknown Source)
+	at dr.xml.AbstractXMLObjectParser.parseXMLObject(Unknown Source)
+	at dr.xml.XMLParser.convert(Unknown Source)
+	at dr.xml.XMLParser.convert(Unknown Source)
+	at dr.xml.XMLParser.parse(Unknown Source)
+	at dr.app.beast.BeastMain.<init>(Unknown Source)
+	at dr.app.beast.BeastMain.main(Unknown Source)
+	at sun.reflect.Nativquencies': Initial frequencies = {0.25, 0.25, 0.25, 0.25}
+Creating HKY substitution model. Initial kappa = 2.0
+Creating site model: 
+  4 category discrete gamma with initial shape = 0.5
+Creating state frequencies model 'secondhalf.frequencies': Initial frequencies = {0.25, 0.25, 0.25, 0.25}
+Creating HKY substitution model. Initial kappa = 2.0
+Creating site model: 
+  4 category discrete gamma with initial shape = 0.5
+Using BEAGLE TreeLikelihood
+  Branch rate model used: discretizedBranchRates
+eMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at apple.launcher.LaunchRunner.run(LaunchRunner.java:116)
+	at apple.launcher.LaunchRunner.callMain(LaunchRunner.java:51)
+	at apple.launcher.JavaApplicationLauncher.launch(JavaApplicationLauncher.java:52)
+java.lang.RuntimeException: Terminate
+	at dr.app.beast.BeastMain.<init>(Unknown Source)
+	at dr.app.beast.BeastMain.main(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at apple.launcher.LaunchRunner.run(LaunchRunner.java:116)
+	at apple.launcher.LaunchRunner.callMain(LaunchRunner.java:51)
+	at apple.launcher.JavaApplicationLauncher.launch(JavaApplicationLauncher.java:52)
+
+BEAST has terminated with an error. Please select QUIT from the menu.

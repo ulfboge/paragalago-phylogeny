@@ -1,0 +1,12 @@
+Paragalago genetic phylogeny manuscript (Google Docs)
+
+These manuscripts live in Google Drive as cloud-only .gdoc placeholders.
+Open them via the shortcuts in this folder, or directly in Google Drive:
+
+Primary (last modified 2026-01-19):
+  g:\My Drive\Multilocus Species-Tree Reconstruction Reveals Deep Lineage Structure in East African Dwarf Galagos (Paragalago).gdoc
+
+Duplicate copy (last modified 2026-03-11):
+  g:\My Drive\Multilocus Species-Tree Reconstruction Reveals Deep Lineage Structure in East African Dwarf Galagos (Paragalago) (1).gdoc
+
+Tip: In Google Docs, use File > Download to export .docx into this folder for offline use.

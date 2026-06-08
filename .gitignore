@@ -1,0 +1,73 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Windows shortcuts (local only; use manuscript/GOOGLE_DOC.md for the link)
+*.lnk
+
+# Large local data archives (kept on disk, not in git)
+sequences/
+phylogenetic_analyses/revbayes/output/
+phylogenetic_analyses/revbayes/trees/
+phylogenetic_analyses/revbayes/till_jn/
+phylogenetic_analyses/revbayes/data/allSequencesAligned/
+phylogenetic_analyses/divergence_dating/logs/
+sampling_and_metadata/malawi/
+spatial_data/
+legacy_manuscripts/
+project_notes/endnote_library/
+
+# Phylogenetic / sequence outputs
+*.log
+*.trees
+*.tre
+*.tree
+*.Rev
+*.Rev.*
+
+# Alignments and sequence data
+*.fas
+*.fasta
+*.nex
+*.nexus
+*.ph
+*.phb
+*.aln
+*.afa
+
+# Media and spatial binaries
+*.wav
+*.mp3
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.kmz
+*.kml
+*.gpkg
+*.qgz
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Archives and databases
+*.zip
+*.tar
+*.gz
+*.7z
+*.sqlite
+*.db
+*.enl
+
+# Office temp files
+~$*
+
+# Optional local exports (canonical source is Google Docs)
+manuscript/*.docx
+manuscript/*.pdf

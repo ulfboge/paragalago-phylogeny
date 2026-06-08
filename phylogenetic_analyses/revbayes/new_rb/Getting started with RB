@@ -1,0 +1,23 @@
+alpha <- 2.0
+beta <- 4.0
+M ~ dnGamma(alpha,beta)
+
+mean_1 <- 0.5
+mean_2 <- 2.0
+sd_1 <- 1.0
+sd_2 <- 0.5
+weight <- 0.5
+M ~ dnBimodalLognormal(mean_1, mean_2, sd_1, sd_2, weight)
+
+lambda <- 1.0
+sigma ~ dnExponential(lambda)
+mu := ln(M) ~(sigma^2)/2.0
+
+for( i in 1:7 ) {
+x[i] ~ dnLognormal(mu, sigma)
+}
+observations <- [0.20, 0.21, 0.03, 0.40, 0.65, 0.87, 0.22]
+N <- observations.size()
+for( i in 1:N ){
+x[i].clamp(observations[i])
+}
