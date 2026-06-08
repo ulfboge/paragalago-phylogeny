@@ -6,6 +6,8 @@ Supporting data archive for:
 
 Authors: Johan Karlsson, Andrew Perkin, Cristiano Vernesi, Simon K. Bearder
 
+**Resuming work?** Read [`WHERE_WE_ARE.md`](WHERE_WE_ARE.md) for current status, file locations, and next steps.
+
 ---
 
 ## Manuscript (Google Docs)
