@@ -19,7 +19,7 @@ https://docs.google.com/document/d/1pMebmT2tvqQMpEa4pEL9EHxDGD09J9KGDEMyW29rgm0/
 
 Section `.gdoc` files on Google Drive (root of `G:\My Drive\`): Introduction, METHODS SUMMARY, Results, Discussion, Acknowledgements, Funding Statement.
 
-SciSpace literature review and simulated peer review: [`manuscript/literature_review/`](manuscript/literature_review/). Additional markdown exports live in the related **galagos** repo (see below).
+SciSpace literature review: [`manuscript/literature_review/STEP_BY_STEP_GUIDE.md`](manuscript/literature_review/STEP_BY_STEP_GUIDE.md) (workflow) · [`manuscript/literature_review/`](manuscript/literature_review/) (files). Additional markdown exports live in the related **galagos** repo (see below).
 
 ---
 

@@ -25,7 +25,8 @@ These section files also live on Google Drive and can be edited separately:
 
 Structured bibliography, topic syntheses, and simulated peer review for manuscript revision:
 
-- [`literature_review/README.md`](literature_review/README.md) — start here
+- [`literature_review/STEP_BY_STEP_GUIDE.md`](literature_review/STEP_BY_STEP_GUIDE.md) — step-by-step revision workflow
+- [`literature_review/README.md`](literature_review/README.md) — folder index
 - [`literature_review/synthesis/meta_review.md`](literature_review/synthesis/meta_review.md) — revision checklist
 - [`literature_review/combined/`](literature_review/combined/) — master bibliographies for Zotero import
 

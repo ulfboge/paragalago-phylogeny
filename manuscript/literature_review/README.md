@@ -5,6 +5,8 @@
 
 This folder holds a structured literature search, synthesis, and simulated peer review produced in SciSpace to support manuscript revision and citation building. The canonical manuscript remains in [Google Docs](../GOOGLE_DOC.md).
 
+**Step-by-step workflow (recommended):** [`STEP_BY_STEP_GUIDE.md`](STEP_BY_STEP_GUIDE.md)
+
 ---
 
 ## Start here
@@ -15,7 +17,7 @@ This folder holds a structured literature search, synthesis, and simulated peer 
 | 2 | [`synthesis/novelty_report.md`](synthesis/novelty_report.md) | Positioning the paper — what is novel vs prior galago work |
 | 3 | [`synthesis/insights_q2_galago_systematics.md`](synthesis/insights_q2_galago_systematics.md) | Introduction & Discussion framing for *Paragalago* taxonomy |
 | 4 | [`synthesis/insights_q1_coalescent_methods.md`](synthesis/insights_q1_coalescent_methods.md) | Methods justification — StarBEAST3 vs alternatives |
-| 5 | [`combined/combined_galago_phylogenetics_comprehensive_review.csv`](combined/combined_galago_phylogenetics_comprehensive_review.csv) | Master bibliography with relevance scores — import to Zotero |
+| 5 | [`combined/combined_galago_phylogenetics_comprehensive_review.ris`](combined/combined_galago_phylogenetics_comprehensive_review.ris) | RIS file for Zotero import (from CSV; see [`STEP_BY_STEP_GUIDE.md`](STEP_BY_STEP_GUIDE.md)) |
 
 ---
 
@@ -60,9 +62,18 @@ literature_review/
 | `insights_q5_conservation_genetics.md` | Conservation genetics and threatened primates |
 | `bibliographic_info.md` | Manuscript metadata used for the review |
 
-### `combined/` (2 files)
+### `combined/` (4 files)
 
-Deduplicated CSV bibliographies merging SciSpace, Google Scholar, PubMed, arXiv, Zotero, and library searches. Columns typically include title, authors, DOI, PDF link, relevance score, and abstract snippet. **Use these for citation picking**, not the raw `searches/` files.
+Deduplicated bibliographies merging SciSpace, Google Scholar, PubMed, arXiv, Zotero, and library searches.
+
+| File | Purpose |
+|------|---------|
+| `combined_galago_phylogenetics_comprehensive_review.csv` | Master table — open in Excel to sort/filter by relevance |
+| `combined_galago_phylogenetics_comprehensive_review.ris` | **Import this into Zotero** (File → Import) |
+| `dois_for_zotero.txt` | 242 DOIs for bulk **Add item by identifier** lookup |
+| `combined_comprehensive_galago_phylogenetics_review.csv` | Alternate merge (use one CSV, not both) |
+
+Zotero does **not** import CSV directly — use the `.ris` file or DOI list. Regenerate with `python scripts/csv_to_zotero_ris.py`.
 
 ### `searches/` (91 files)
 
@@ -90,7 +101,7 @@ Cross-reference `insights_q*.md` files when rewriting each section.
 
 ### 2. Building the reference list
 
-1. Open `combined/combined_galago_phylogenetics_comprehensive_review.csv` in Excel or import to Zotero.
+1. Import `combined/combined_galago_phylogenetics_comprehensive_review.ris` into Zotero (or use `dois_for_zotero.txt` for DOI lookup). Use the CSV in Excel only for sorting and filtering.
 2. Sort by relevance score; filter for papers not already in your library.
 3. For section-specific gaps, use the matching `insights_q*.md` (cited inline as `[1]`, `[2]`, …) and pull DOIs from the linked `searches/` or `paper_tables/` files.
 4. Key papers repeatedly flagged for *Paragalago* work: Pozzi et al. (2014, 2020), Masters et al. (2017), Génin (2021), Karlsson field reports.
