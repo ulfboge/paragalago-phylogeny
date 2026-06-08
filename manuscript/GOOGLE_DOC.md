@@ -21,9 +21,17 @@ These section files also live on Google Drive and can be edited separately:
 | Acknowledgements | `G:\My Drive\Acknowledgements.gdoc` |
 | Funding statement | `G:\My Drive\Funding Statement.gdoc` |
 
+## Literature review (SciSpace)
+
+Structured bibliography, topic syntheses, and simulated peer review for manuscript revision:
+
+- [`literature_review/README.md`](literature_review/README.md) — start here
+- [`literature_review/synthesis/meta_review.md`](literature_review/synthesis/meta_review.md) — revision checklist
+- [`literature_review/combined/`](literature_review/combined/) — master bibliographies for Zotero import
+
 ## Related repository
 
-Active StarBEAST3 analyses, QGIS layers, and manuscript markdown exports:
+StarBEAST3 analysis (now in this repo), QGIS layers, and additional manuscript markdown exports:
 
 - [ulfboge/galagos](https://github.com/ulfboge/galagos) — `docs/publication/manuscript/`
 

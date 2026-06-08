@@ -4,7 +4,8 @@ Local archive of supporting materials for the Paragalago multilocus phylogeny ma
 
 ```
 paragalago-phylogeny/
-├── manuscript/              # Google Docs links (canonical manuscript source)
+├── manuscript/              # Google Docs links + SciSpace literature review
+│   └── literature_review/   # SciSpace search exports, synthesis, simulated peer review
 ├── sequences/               # Alignments (12S, 16S, cytB, IRBP, vWF) [local only]
 ├── phylogenetic_analyses/
 │   ├── 2025_galagoides_starbeast3/  # Publication StarBEAST3 run (outputs local only)

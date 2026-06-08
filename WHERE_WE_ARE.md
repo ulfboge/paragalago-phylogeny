@@ -19,7 +19,7 @@ https://docs.google.com/document/d/1pMebmT2tvqQMpEa4pEL9EHxDGD09J9KGDEMyW29rgm0/
 
 Section `.gdoc` files on Google Drive (root of `G:\My Drive\`): Introduction, METHODS SUMMARY, Results, Discussion, Acknowledgements, Funding Statement.
 
-Markdown exports and AI review notes live in the related **galagos** repo (see below).
+SciSpace literature review and simulated peer review: [`manuscript/literature_review/`](manuscript/literature_review/). Additional markdown exports live in the related **galagos** repo (see below).
 
 ---
 
@@ -122,7 +122,7 @@ C:\Users\galag\GitHub\jobb-ansökningar\research\galagos\
 
 ## Likely next steps
 
-1. **Manuscript** — continue editing in Google Docs; export figures from `galago_full_MCC.tree` / `visualizations\` when needed.
+1. **Manuscript** — continue editing in Google Docs; use `manuscript\literature_review\synthesis\meta_review.md` as a revision checklist; export figures from `galago_full_MCC.tree` / `visualizations\` when needed.
 2. **Figures** — review SVG/PNG in `2025_galagoides_starbeast3\visualizations\`.
 3. **Submission prep** — data availability statement, GenBank accessions, supplementary alignments.
 4. **Commit docs** — `FILE_ORGANIZATION.md` and tree explanation markdown are tracked in git; MCMC logs/trees/FASTAs stay gitignored.

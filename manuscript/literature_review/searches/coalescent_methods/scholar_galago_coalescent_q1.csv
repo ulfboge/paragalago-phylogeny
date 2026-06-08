@@ -1,0 +1,220 @@
+"Paper Title","Paper Link","Publication Year","Publication Type","Publication Title","Author Names","DOI","PDF Link","Snippet","Abstract"
+"A multilocus phylogeny reveals deep lineages within African galagids (Primates: Galagidae)","https://scispace.com/paper/a-multilocus-phylogeny-reveals-deep-lineages-within-african-4jcpm12usk","2014","Journal Article","BMC Evolutionary Biology","Luca Pozzi
+Luca Pozzi
+Todd R. Disotell
+Judith C. Masters","10.1186/1471-2148-14-72","https://link.springer.com/content/pdf/10.1186/1471-2148-14-72.pdf","… Africa, several of the dwarf galago species recognized more recently are restricted to East Africa [3]… applied a coalescence-based species tree approach to phylogenetic inference within …","Bushbabies (Galagidae) are among the most morphologically cryptic of all primates and their diversity and relationships are some of the most longstanding problems in primatology. Our knowledge of galagid evolutionary history has been limited by a lack of appropriate molecular data and a paucity of fossils. Most phylogenetic studies have produced conflicting results for many clades, and even the relationships among genera remain uncertain. To clarify galagid evolutionary history, we assembled the largest molecular dataset for galagos to date by sequencing 27 independent loci. We inferred phylogenetic relationships using concatenated maximum-likelihood and Bayesian analyses, and also coalescent-based species tree methods to account for gene tree heterogeneity due to incomplete lineage sorting. The genus Euoticus was identified as sister taxon to the rest of the galagids and the genus Galagoides was not recovered as monophyletic, suggesting that a new generic name for the Zanzibar complex is required. Despite the amount of genetic data collected in this study, the monophyly of the family Lorisidae remained poorly supported, probably due to the short internode between the Lorisidae/Galagidae split and the origin of the African and Asian lorisid clades. One major result was the relatively old origin for the most recent common ancestor of all living galagids soon after the Eocene-Oligocene boundary. Using a multilocus approach, our results suggest an early origin for the crown Galagidae, soon after the Eocene-Oligocene boundary, making Euoticus one of the oldest lineages within extant Primates. This result also implies that one – or possibly more – stem radiations diverged in the Late Eocene and persisted for several million years alongside members of the crown group."
+"Phylogeography and evolutionary lineage diversity in the small-eared greater galago, Otolemur garnettii (Primates: Galagidae)","https://scispace.com/paper/BAezYRdAwHsJ","","","","A Penna
+R Dillon
+SK Bearder","","https://par.nsf.gov/servlets/purl/10647470","… in rates of coalescence among species and … Africa, we employed multiple species-delimitation algorithms, haplotype network analyses and divergence-time estimation in a phylogenetic …",""
+"Cryptic diversity and species boundaries within the Paragalago zanzibaricus species complex","https://scispace.com/paper/cryptic-diversity-and-species-boundaries-within-the-35mpmiaq7i","2020","Journal Article","Molecular Phylogenetics and Evolution","Luca Pozzi
+Anna Penna
+Simon K. Bearder
+Johan Karlsson
+Andrew Perkin
+Todd R. Disotell","10.1016/J.YMPEV.2020.106887","https://drive.google.com/file/d/1JK5suoNTciNp_IjKUh6I4VVLk4Yfcnm8/view","… Paragalago is a complex of several nocturnal and morphologically cryptic species distributed in the forests of eastern Africa. … data and comparing multiple species delimitation methods. …",""
+"Using a multi-gene approach to infer the complicated phylogeny and evolutionary history of lorises (Order Primates: Family Lorisidae)","https://scispace.com/paper/using-a-multi-gene-approach-to-infer-the-complicated-296tx7lpi9","2018","Journal Article","Molecular Phylogenetics and Evolution","Rachel A. Munds
+Rachel A. Munds
+Chelsea L. Titus
+Lori S. Eggert
+Gregory E. Blomquist","10.1016/J.YMPEV.2018.05.025","","… Past phylogenetic loris studies resulted in lorises being monophyletic, paraphyletic, or an … related galagos. The purpose of our study is to improve our understanding of loris phylogeny …",""
+"Molecular evidence on primate origins and evolution","https://scispace.com/paper/_-U_5efytswJ","","","","RL Raaum","","https://www.researchgate.net/profile/Ryan-Raaum/publication/283483354_Molecular_evidence_on_primate_origins_and_evolution/links/57a0a66608aeb16048326f83/Molecular-Evidence-on-Primate-Origins-and-Evolution.pdf","… The most recent molecular phylogenetic studies of primate … reciprocal monophyly of the living galagos and lorises, but the … al. repeated their multispecies coalescent analysis with data …",""
+"Quantitatively defining species boundaries with more efficiency and more biological realism","https://scispace.com/paper/quantitatively-defining-species-boundaries-with-more-ap81yfv5","2022","Journal Article","Communications biology","Jordan Douglas
+Remco R. Bouckaert","10.1038/s42003-022-03723-z","https://www.nature.com/articles/s42003-022-03723-z.pdf","… method based on the multispecies coalescent model that is more … to two datasets (Hemidactylus and Galagidae) and find … pitfalls underlying traditional phylogenetic analyses which …","Abstract We introduce a widely applicable species delimitation method based on the multispecies coalescent model that is more efficient and more biologically realistic than existing methods. We extend a threshold-based method to allow the ancestral speciation rate to vary through time as a smooth piecewise function. Furthermore, we introduce the cutting-edge proposal kernels of StarBeast3 to this model, thus enabling rapid species delimitation on large molecular datasets and allowing the use of relaxed molecular clock models. We validate these methods with genomic sequence data and SNP data, and show they are more efficient than existing methods at achieving parameter convergence during Bayesian MCMC. Lastly, we apply these methods to two datasets ( Hemidactylus and Galagidae ) and find inconsistencies with the published literature. Our methods are powerful for rapid quantitative testing of species boundaries in large multilocus datasets and are implemented as an open source BEAST 2 package called SPEEDEMON. "
+"Cryptic patterns of speciation in cryptic primates: microendemic mouse lemurs and the multispecies coalescent","https://scispace.com/paper/cryptic-patterns-of-speciation-in-cryptic-primates-2vr2onff84","2019","Posted Content","bioRxiv","Dominik Schüßler
+Jordi Salmona
+Marina B. Blanco
+Jelmer W. Poelstra
+George P. Tiley
+Jean B Andriambeloson
+Olivier Bouchez
+C. Ryan Campbell
+Paul D. Etter
+Amaia Iribar
+Paul A. Hohenlohe
+Kelsie E. Hunnicutt
+Eric A. Johnson
+Peter A. Larsen
+Jasmin Mantilla-Contreras
+Sophie Manzi
+Alexandra Miller
+Blanchard Randrianambinina
+David W. Rasolofoson
+Amanda R. Stahlke
+David W. Weisrock
+Rachel C. Williams
+Lounès Chikhi
+Edward E. Louis
+Anne D. Yoder
+Ute Radespiel","10.1101/742361","https://academic.oup.com/sysbio/advance-article-pdf/doi/10.1093/sysbio/syaa053/36230419/syaa053.pdf","… In this study, we use a structured framework starting with phylogenetic placement of lineages and culminating with the MSC to delimit species, estimate divergence times, identify …","Species delimitation is ever more critical for assessing biodiversity in threatened regions of the world, with cryptic species and rapid radiations offering two of the greatest challenges, especially when they occur in conjunction. Mouse lemurs (Microcebus) are an example of a rapid, cryptic radiation and here we study five phylogenetic lineages that are found within a restricted geographic area in northeastern Madagascar. To delimit and characterize species diversity we utilize a conceptual framework based on the multispecies coalescent (MSC). Morphometric analyses reveal only minute phenotypic differences among lineages, thus confirming the cryptic nature of taxa. By analyzing genome-wide SNP data, we assess effective population sizes (Ne), divergence times, and patterns of gene flow to inform hypotheses of species delimitation in the context of geographic distribution, ecology and morphological distinction. Differences in Ne have a significant impact on MSC-based species delimitation, particularly with regard to the recently introduced genealogical divergence index (gdi). Lineages with low Ne pass the heuristic gdi test while high Ne lineages fail to delimit a previously recognized species pair. Further, we find that incorporating gene flow into the MSC can greatly affect divergence time estimates. Even so, we are confident that speciation occurred recently and rapidly in this cryptic radiation with reproductive isolation apparent from two areas where divergent lineages occur sympatrically. Finally, we conclude that a previously identified mitochondrial lineage warrants full species status, and provide a species description for this lineage, naming it M. jonahi. Alarmingly, analyses of both whole-genome and RADseq data show a precipitous decline in Ne in this newly described microendemic, thus indicating a high risk of extinction even in the moment of its recognition as a new species."
+"Cryptic patterns of speciation in cryptic primates: microendemic mouse lemurs and the multispecies coalescent","https://scispace.com/paper/cryptic-patterns-of-speciation-in-cryptic-primates-2vr2onff84","2019","Posted Content","bioRxiv","Dominik Schüßler
+Jordi Salmona
+Marina B. Blanco
+Jelmer W. Poelstra
+George P. Tiley
+Jean B Andriambeloson
+Olivier Bouchez
+C. Ryan Campbell
+Paul D. Etter
+Amaia Iribar
+Paul A. Hohenlohe
+Kelsie E. Hunnicutt
+Eric A. Johnson
+Peter A. Larsen
+Jasmin Mantilla-Contreras
+Sophie Manzi
+Alexandra Miller
+Blanchard Randrianambinina
+David W. Rasolofoson
+Amanda R. Stahlke
+David W. Weisrock
+Rachel C. Williams
+Lounès Chikhi
+Edward E. Louis
+Anne D. Yoder
+Ute Radespiel","10.1101/742361","https://www.biorxiv.org/content/biorxiv/early/2019/10/27/742361.full.pdf","… In this study, we use a structured framework starting with phylogenetic placement of lineages and culminating with the MSC to delimit species, estimate divergence times, identify post-…","Species delimitation is ever more critical for assessing biodiversity in threatened regions of the world, with cryptic species and rapid radiations offering two of the greatest challenges, especially when they occur in conjunction. Mouse lemurs (Microcebus) are an example of a rapid, cryptic radiation and here we study five phylogenetic lineages that are found within a restricted geographic area in northeastern Madagascar. To delimit and characterize species diversity we utilize a conceptual framework based on the multispecies coalescent (MSC). Morphometric analyses reveal only minute phenotypic differences among lineages, thus confirming the cryptic nature of taxa. By analyzing genome-wide SNP data, we assess effective population sizes (Ne), divergence times, and patterns of gene flow to inform hypotheses of species delimitation in the context of geographic distribution, ecology and morphological distinction. Differences in Ne have a significant impact on MSC-based species delimitation, particularly with regard to the recently introduced genealogical divergence index (gdi). Lineages with low Ne pass the heuristic gdi test while high Ne lineages fail to delimit a previously recognized species pair. Further, we find that incorporating gene flow into the MSC can greatly affect divergence time estimates. Even so, we are confident that speciation occurred recently and rapidly in this cryptic radiation with reproductive isolation apparent from two areas where divergent lineages occur sympatrically. Finally, we conclude that a previously identified mitochondrial lineage warrants full species status, and provide a species description for this lineage, naming it M. jonahi. Alarmingly, analyses of both whole-genome and RADseq data show a precipitous decline in Ne in this newly described microendemic, thus indicating a high risk of extinction even in the moment of its recognition as a new species."
+"Phylogenomics reveals the origin of mammal lice out of Afrotheria","https://scispace.com/paper/phylogenomics-reveals-the-origin-of-mammal-lice-out-of-9w7qpi7f","2022","Journal Article","Nature Ecology and Evolution","Kevin P. Johnson
+Conrad A. Matthee
+Jorge Doña","10.1038/s41559-022-01803-1","https://par.nsf.gov/servlets/purl/10345580","… within primates (galagos and Madagascan lemurs, coalescent louse tree). … coalescent) estimated for this group against a phylogeny for their mammal hosts. For the mammal phylogeny…",""
+"Not one, but multiple radiations underlie the biodiversity of Madagascar's endangered lemurs","https://scispace.com/paper/not-one-but-multiple-radiations-underlie-the-biodiversity-of-1miwahr9","2023","Posted Content","bioRxiv","Kathryn M. Everson
+Luca Pozzi
+Meredith A. Barrett
+Mary E. Blair
+Mariah E. Donohue
+Peter M. Kappeler
+Andrew C. Kitchener
+Alan R. Lemmon
+Emily Moriarty Lemmon
+Carlos J. Pavón-Vázquez
+Ute Radespiel
+Blanchard Randrianambinina
+Rodin M. Rasoloarison
+Solofonirina Rasoloharijaona
+Christian Roos
+Jordi Salmona
+Anne D. Yoder
+Rosana Zenil-Ferguson
+Dietmar Zinner
+David W. Weisrock","10.1101/2023.04.26.537867","https://scispace.com/pdf/not-one-but-multiple-radiations-underlie-the-biodiversity-of-1miwahr9.pdf","… Given abiding uncertainty about phylogenetic 95 … the family Galagidae (specifically the genera Galago and Paragalago), … We analyzed RADseq data with multispecies coalescent (MSC) …","Lemurs are a well-known example of adaptive radiation. Since colonizing Madagascar, more than 100 extant lemur species have evolved to fill the variety of ecological niches on the island. However, recent work suggests that lemurs do not exhibit one of the hallmarks of adaptive radiations: explosive speciation rates that decline over time. We test this idea using a phylogenomic dataset with broad taxonomic sampling of lemurs and their sister group, the lorisiforms of Asia and continental Africa. We find higher rates of speciation in Madagascar’s lemurs compared to lorisiforms and we confirm that lemurs did not experience an “early burst” of speciation after colonizing Madagascar. Instead, we identify three independent bursts of speciation approximately 15 million years ago that underly much of today’s lemur diversity. We demonstrate that the lemur clades with exceptionally high diversification rates have higher rates of introgression. This suggests that hybridization in these primates is not an evolutionary dead- end, but a driving force for diversification. Considering the conservation crisis affecting strepsirrhine primates, with approximately 95% of species being threatened with extinction, this phylogenomic study offers a new perspective for explaining Madagascar’s exceptional primate diversity and reveals patterns of speciation, extinction, and gene flow that will help inform future conservation decisions."
+"Multiple bursts of speciation in Madagascar's endangered lemurs","https://scispace.com/paper/multiple-bursts-of-speciation-in-madagascars-endangered-z0ca8b5v3gk0","2025","Journal Article","Nature Communications","Kathryn Everson
+Luca Pozzi
+Meredith Barrett
+Mary E. Blair
+Mariah E. Donohue
+Peter M. Kappeler
+Andrew C. Kitchener
+Alan R. Lemmon
+Emily Moriarty Lemmon
+Carlos J. Pavón‐Vázquez
+Ute Radespiel
+Blanchard Randrianambinina
+Rodin M. Rasoloarison
+Solofonirina Rasoloharijaona
+Christian Roos
+Jordi Salmona
+Anne D. Yoder
+Rosana Zenil‐Ferguson
+Dietmar Zinner
+David W. Weisrock","10.1038/s41467-025-62310-y","https://www.nature.com/articles/s41467-025-62310-y.pdf","… Galagidae (specifically the genera Galago and Paragalago), … : if we continue to use species-tree models that only account for … been featured in multiple species delimitation studies …","Lemurs are often cited as an example of adaptive radiation, as more than 100 extant species have evolved and filled ecological niches on Madagascar. However, recent work suggests that lemurs lack a hallmark of other adaptive radiations: explosive speciation rates that decline over time. Thus, characterizing the tempo and mode of evolution in lemurs can reveal alternative ways that hyperdiverse clades arise over time, which might differ from traditional models. We explore lemur evolution using a phylogenomic dataset with broad taxonomic sampling that includes the lorisiforms of Asia and continental Africa. Our analyses reveal multiple bursts of diversification (without subsequent declines) that explain much of today's lemur diversity. We also find higher rates of speciation in Madagascar's lemurs compared to lorisiforms, and we demonstrate that the lemur clades with high diversification rates also have high rates of genomic introgression. This suggests that hybridization in these primates is not an evolutionary dead-end, but potential fuel for diversification. Considering the conservation crisis affecting strepsirrhine primates, with approximately 95% of species threatened with extinction, this study offers a perspective for explaining Madagascar's primate diversity and reveals patterns of speciation, extinction, and gene flow that will help inform future conservation decisions. "
+"Rocks and clocks revised: New promises and challenges in dating the primate tree of life","https://scispace.com/paper/rocks-and-clocks-revised-new-promises-and-challenges-in-28bm5bmb","2022","Journal Article","Evolutionary Anthropology","Luca Pozzi
+Anna-Marie Penna","10.1002/evan.21940","https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/evan.21940","… in phylogenetic reconstructions, the age, and phylogenetic … of both Lorisidae and Galagidae than regular node calibration … be used in multispecies coalescent approaches to jointly …","In recent years, multiple technological and methodological advances have increased our ability to estimate phylogenies, leading to more accurate dating of the primate tree of life. Here we provide an overview of the limitations and potentials of some of these advancements and discuss how dated phylogenies provide the crucial temporal scale required to understand primate evolution. First, we review new methods, such as the total‐evidence dating approach, that promise a better integration between the fossil record and molecular data. We then explore how the ever‐increasing availability of genomic‐level data for more primate species can impact our ability to accurately estimate timetrees. Finally, we discuss more recent applications of mutation rates to date divergence times. We highlight example studies that have applied these approaches to estimate divergence dates within primates. Our goal is to provide a critical overview of these new developments and explore the promises and challenges of their application in evolutionary anthropology."
+"A genomic timescale for placental mammal evolution","https://scispace.com/paper/a-genomic-timescale-for-placental-mammal-evolution-2fl8zapw","2022","Journal Article","Science","Nicole M. Foley
+Victor C. Mason
+Andrew J. Harris
+Kevin R. Bredemeyer
+Joana Damas
+Harris A. Lewin
+Eduardo Eizirik
+John Gatesy
+Mark S. Springer
+William J. Murphy","10.1126/science.abl8189","https://www.science.org/doi/pdf/10.1126/science.abl8189","… We compared neutral genome-wide phylogenomic signals using concatenation and coalescent-based approaches, interrogated phylogenetic variation across chromosomes, and …","The precise pattern and timing of speciation events that gave rise to all living placental mammals remain controversial. We provide a comprehensive phylogenetic analysis of genetic variation across an alignment of 241 placental mammal genome assemblies, addressing prior concerns regarding limited genomic sampling across species. We compared neutral genome-wide phylogenomic signal using concatenation and coalescent-based approaches, interrogated phylogenetic variation across chromosomes and analyzed extensive catalogs of structural variants. Interordinal relationships exhibit relatively low rates of phylogenomic conflict across diverse datasets and analytical methods. Conversely, X-chromosome versus autosome conflicts characterize multiple independent clades that radiated during the Cenozoic. Genomic timetrees reveal an accumulation of cladogenic events before and immediately following the KPg boundary implying important roles for Cretaceous continental vicariance and the KPg extinction in the placental radiation. One-Sentence Summary A comprehensive whole genome phylogeny of extant placental mammals reveals timing and patterns of ordinal diversification."
+"Phylogenomics reveals the origin of mammal lice out of Afrotheria","https://scispace.com/paper/phylogenomics-reveals-the-origin-of-mammal-lice-out-of-9w7qpi7f","2022","Journal Article","Nature Ecology and Evolution","Kevin P. Johnson
+Conrad A. Matthee
+Jorge Doña","10.1038/s41559-022-01803-1","https://digibug.ugr.es/bitstream/handle/10481/100956/s41559-022-01803-1.pdf?sequence=1&isAllowed=y","… within primates (galagos and Madagascan lemurs, coalescent louse tree). … coalescent) estimated for this group against a phylogeny for their mammal hosts. For the mammal phylogeny…",""
+"Evolution of forest Bitis (Macrocerastes) in Africa: Phylogeography, population genetics, and potential as a model for Batesian mimicry","https://scispace.com/paper/jigw3CpspqwJ","","","","ER Vaughan","","https://scholarworks.utep.edu/cgi/viewcontent.cgi?article=5029&context=open_etd","… Multispecies coalescent time-calibrated Bayesian phylogeny of sampled Macrocerastes species and populations, as well as selected outgroups, generated in BEAST using all 5 …",""
+"A global catalog of whole-genome diversity from 233 primate species","https://scispace.com/paper/a-global-catalog-of-whole-genome-diversity-from-233-primate-22e7gn65","2023","Journal Article","Science","Lukas F. K. Kuderna
+Hong Qing Gao
+Mareike C. Janiak
+Martin Kuhlwilm
+Joseph D. Orkin
+Thomas Bataillon
+Shivakumara Manu
+Alejandro Valenzuela
+Juraj Bergman
+Marjolaine Rousselle
+Felipe Ennes Silva
+Lidia Agueda
+Julie Blanc
+Marta Gut
+Dorien de Vries
+Ian Goodhead
+R. Alan Harris
+Muthuswamy Raveendran
+Idrissa S. Chuma
+Julie E. Horvath
+Christina Hvilsom
+David Juan
+Peter Frandsen
+Joshua G. Schraiber
+Fabiano Rodrigues de Melo
+Fabrício Bertuol
+Hazel Byrne
+Iracilda Sampaio
+Izeni Pires Farias
+João Valsecchi
+Maria Nazareth Ferreira da Silva
+Mihir Trivedi
+Rogério Vieira Rossi
+Tomáš Herben
+Nicole V. Andriaholinirina
+C. Rabarivola
+Alphonse Zaramody
+Clifford J. Jolly
+Jane E. Phillips-Conroy
+Gregory K. Wilkerson
+Christian R. Abee
+J. L. Simmons
+Eduardo Fernandez-Duque
+Sreetharan Kanthaswamy
+Fekadu Shiferaw
+Dongdong Wu
+Long Zhou
+Yong Shao
+Guojie Zhang
+Julius Keyyu
+Sascha Knauf
+Minh Duc Le
+Esther Lizano
+Stefan Merker
+Arcadi Navarro
+Tilo Nadler
+Chiea Chuen Khor
+Jessica G. H. Lee
+Patrick Yih Kwok. Tan
+Weng Khong Lim
+Andrew C. Kitchener
+Dietmar Zinner
+Ivo Gut
+Amanda D. Melin
+Katerina Guschanski
+Mikkel H. Schierup
+Robin M. D. Beck
+Govindaswamy Umapathy
+Christian Roos
+Jean P. Boubli
+Jeffrey Rogers
+Kyle Kai-How Farh
+Tomas Marques Bonet","10.1126/science.abn7829","https://www.science.org/doi/pdf/10.1126/science.abn7829","… azarae) and the northern greater galago (Otolemur garnettii), … a coalescent analysis to obtain the topology of the species tree… We find multiple species belonging to different families of …","The rich diversity of morphology and behavior displayed across primate species provides an informative context in which to study the impact of genomic diversity on fundamental biological processes. Analysis of that diversity provides insight into long-standing questions in evolutionary and conservation biology, and is urgent given severe threats these species are facing. Here, we present high coverage whole-genome data from 233 primate species representing 86% of genera and all 16 families. This dataset was used, together with fossil calibration, to create a nuclear DNA phylogeny and to reassess evolutionary divergence times among primate clades. We found within-species genetic diversity across families and geographic regions to be associated with climate and sociality, but not with extinction risk. Furthermore, mutation rates differ across species, potentially influenced by effective population sizes. Lastly, we identified extensive recurrence of missense mutations previously thought to be human-specific. This study will open a wide range of research avenues for future primate genomic research. One-Sentence Summary The whole genome sequences of 233 primate species provide insight into the determinants of genetic diversity, phylogenomics, and human uniqueness."
+"Population history and taxonomy of African hares (genus Lepus) inferred from genetic variation","https://scispace.com/paper/population-history-and-taxonomy-of-african-hares-genus-lepus-q36j1ly8p8","2016","Journal Article","Mammalian Biology","Sara Lado
+Paulo C. Alves
+José Carlos Brito
+José Melo-Ferreira","10.1016/J.MAMBIO.2016.07.035","https://repositorio-aberto.up.pt/bitstream/10216/86897/2/37855.pdf","… phylogenetic analyses. Five major geographically explicit groups were identified: Near East, Arabia, Kenya, South Africa and Norwest Africa. … tree and uses the multispecies coalescent. (…",""
+"A guide to galago diversity: getting a grip on how best to chew gum","https://scispace.com/paper/a-guide-to-galago-diversity-getting-a-grip-on-how-best-to-2y0zceof98","2010","Book Chapter","","Isobel R. Stephenson
+Simon K. Bearder
+Guiseppe Donati
+Johann Karlsson","10.1007/978-1-4419-6661-2_12","https://www.researchgate.net/profile/Giuseppe-Donati/publication/227143069_A_Guide_to_Galago_Diversity_Getting_a_Grip_on_How_Best_to_Chew_Gum/links/0a85e53247091a87a5000000/A-Guide-to-Galago-Diversity-Getting-a-Grip-on-How-Best-to-Chew-Gum.pdf","… phylogeny, so understanding local niche differentiation is vital for studying species-specific adaptations. Unfortunately, the galagos of mainland Africa (family Galagidae) … coalescence …","Disputes over galago taxonomy have meant that studies often use ­different names for identical populations, making comparative analysis difficult for the untrained researcher. A main objective of this study was to assess whether hand and foot pad morphology, nail shape and toothscraper structure reveal adaptations to exudate eating and show differences which reflect taxonomy in order to identify species. A total of 714 museum specimens were examined between May and July 2007, revealing six pads on each hand and foot which vary in shape and orientation across taxa. Three nail shapes and two variations in toothscraper position were identified. The results indicate that variance in pad size reflects species boundaries and shows adaptations to allow access to large-diameter substrates. No consistent dental variation was identified when comparing species with high and low proportions of exudates in their diet, although the highly gummivorous Euoticus elegantulus possessed a relatively longer, more procumbent toothscraper than other species."
+"Integrative taxonomy resolves a new West African Crocidura (Mammalia: Soricidae) species, cryptic to Crocidura grandiceps in color, but distinct in size","https://scispace.com/paper/Y_2SgO-AmDUJ","","","","I Voet
+A Delapre
+C Denys
+A Lalis","","https://hal.science/hal-05515101v1/file/3197-Article%20Text-14013-1-10-20260217.pdf","… Following the publication of the phylogeny of the C. poensis … BPP nuclear species tree. Posterior probabilities for species … eared greater galago, Otolemur garnettii (Primates: Galagidae). …",""
+"Primate taxonomy and conservation","https://scispace.com/paper/primate-taxonomy-and-conservation-kadebrqjyt","2016","Book Chapter","","Dietmar Zinner
+Christian Roos","10.1007/978-3-319-30469-4_11","","… organisms has to be based on their phylogenetic relationship and not just on “similarities”. … , Galago, and the dwarf galagos from forests of the Indian Ocean catchment area in Africa (…","Taxonomy usually refers to the theory and practice of describing, naming, and classifying living things. It is therefore fundamental for our understanding of the diversity of life and its conservation. The basic unit of taxonomy is the “species” and many conservation issues are concerned with their protection. However, although most biologists agree that the species represents a fundamental category of biological organization, finding an all-encompassing species definition is difficult and thus, the delimitation of units as species often remains controversial. Species can be regarded as taxonomic hypotheses and depending on the applied species-concept and available data, units or taxa are split or lumped together. The number of recognized primate species for instance increased from 180 in 1967 to 480 in 2013. This dynamic might affect biodiversity assessment and conservation strategies, e.g., when setting conservation priorities or when implementing conservation management or captive breeding plans. In our contribution we will briefly sum up the history of taxonomic research with a focus on primates, touch on the problems of species concepts and species delimitation, and delve into the impacts on species conservation."
