@@ -1,6 +1,7 @@
 # SciSpace literature review — Paragalago manuscript
 
 **Generated:** June 2026 (SciSpace Deep Review export)  
+**Progress:** Zotero import complete (8 June 2026) — next: manuscript revision Phases 3–6 per [`STEP_BY_STEP_GUIDE.md`](STEP_BY_STEP_GUIDE.md).
 **Manuscript:** *Multilocus Species-Tree Reconstruction Reveals Deep Lineage Structure in East African Dwarf Galagos (Paragalago)*
 
 This folder holds a structured literature search, synthesis, and simulated peer review produced in SciSpace to support manuscript revision and citation building. The canonical manuscript remains in [Google Docs](../GOOGLE_DOC.md).

@@ -8,6 +8,25 @@ Work through the phases below in order. Each phase has checkboxes you can tick o
 
 ---
 
+## Current progress (updated 8 June 2026)
+
+| Phase | Status |
+|-------|--------|
+| 0 — Orientation | ✅ |
+| 1 — Read revision checklist | ⏳ **Start here tomorrow** if not done |
+| 2 — Zotero import | ✅ References + DOI list added |
+| 3 — Introduction | ⏳ Next writing task |
+| 4 — Methods | ⏳ |
+| 5 — Discussion | ⏳ |
+| 6 — Limitations | ⏳ |
+| 7 — Figures check | ⏳ |
+| 8 — Citation sweep | ⏳ |
+| 9 — Pre-submission | ⏳ |
+
+**Tomorrow:** Phase 1 (30 min) → Phase 3 (Introduction) with Zotero open.
+
+---
+
 ## Phase 0 — Know what you have (5 minutes)
 
 The SciSpace export contains **163 files** organised as follows:
@@ -15,7 +34,7 @@ The SciSpace export contains **163 files** organised as follows:
 | Folder | Files | What it is |
 |--------|------:|------------|
 | `synthesis/` | 12 | Readable summaries and simulated peer review — **start here for writing** |
-| `combined/` | 2 | Master bibliographies — **start here for citations** |
+| `combined/` | 4 | Bibliographies + RIS/DOI files for Zotero |
 | `searches/` | 91 | Raw search hits (SciSpace, Scholar, PubMed, etc.) |
 | `paper_tables/` | 57 | Structured paper lists by subtopic |
 | `manuscript_export/` | 1 | Snapshot of manuscript text used for the review |
@@ -48,9 +67,11 @@ Your analysis results (no re-run needed) live separately at:
 
 ---
 
-## Phase 2 — Import references into Zotero (45–90 minutes)
+## Phase 2 — Import references into Zotero ✅ DONE (8 June 2026)
 
 **Goal:** Build a working reference library from the combined bibliography.
+
+> **Completed:** RIS import and DOI list (`dois_for_zotero.txt`) added to Zotero. Optional housekeeping below if not done yet.
 
 **CSV is not a native Zotero import format.** Zotero accepts formats such as **RIS**, **BibTeX**, **BibLaTeX**, **CSL JSON**, **Zotero RDF**, and others — but not plain CSV. Use one of the options below instead.
 
@@ -74,23 +95,13 @@ python scripts/csv_to_zotero_ris.py
 
 **Option A — Import RIS file (recommended)**
 
-- [ ] In Zotero: **File → Import…**
-- [ ] Select:
-
-  `combined/combined_galago_phylogenetics_comprehensive_review.ris`
-
-- [ ] Import into a **new collection** named e.g. `Paragalago SciSpace 2026`
-- [ ] Zotero creates items from the RIS metadata (title, authors, year, DOI, abstract, SciSpace relevance in notes)
+- [x] In Zotero: **File → Import…**
+- [x] Select `combined/combined_galago_phylogenetics_comprehensive_review.ris`
+- [x] Import into Zotero collection (e.g. `Paragalago SciSpace 2026`)
 
 **Option B — Bulk DOI lookup (best metadata quality)**
 
-RIS import gives you basic fields. For **full publisher metadata** (volume, pages, journal abbreviations), let Zotero look up each DOI:
-
-- [ ] Open `combined/dois_for_zotero.txt` (242 DOIs, one per line)
-- [ ] In Zotero: click **Add item by identifier** (magic wand icon)
-- [ ] Paste DOIs (you can paste many at once, separated by new lines)
-- [ ] Zotero fetches complete records from Crossref/PubMed
-- [ ] Repeat in batches if the dialog limits how many you can paste at once
+- [x] Used `combined/dois_for_zotero.txt` (242 DOIs) via **Add item by identifier**
 
 **Option C — Shortlist only (20–30 key papers)**
 

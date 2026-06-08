@@ -1,6 +1,6 @@
 # Where we are — Paragalago phylogeny project
 
-**Last updated:** 8 June 2026  
+**Last updated:** 8 June 2026 (evening — Zotero import done)  
 **Open this folder in Cursor:** `C:\Users\galag\GitHub\paragalago-phylogeny`  
 **GitHub:** https://github.com/ulfboge/paragalago-phylogeny
 
@@ -20,6 +20,21 @@ https://docs.google.com/document/d/1pMebmT2tvqQMpEa4pEL9EHxDGD09J9KGDEMyW29rgm0/
 Section `.gdoc` files on Google Drive (root of `G:\My Drive\`): Introduction, METHODS SUMMARY, Results, Discussion, Acknowledgements, Funding Statement.
 
 SciSpace literature review: [`manuscript/literature_review/STEP_BY_STEP_GUIDE.md`](manuscript/literature_review/STEP_BY_STEP_GUIDE.md) (workflow) · [`manuscript/literature_review/`](manuscript/literature_review/) (files). Additional markdown exports live in the related **galagos** repo (see below).
+
+### Manuscript revision progress (8 June 2026)
+
+| Done | Item |
+|------|------|
+| ✅ | StarBEAST3 analysis consolidated in this repo (`phylogenetic_analyses/2025_galagoides_starbeast3/`) |
+| ✅ | SciSpace literature review organised (`manuscript/literature_review/`) |
+| ✅ | References imported into **Zotero** (RIS + `dois_for_zotero.txt`) |
+| ⏳ | Read `synthesis/meta_review.md` revision checklist |
+| ⏳ | Revise Google Doc — Introduction citations (Phase 3) |
+| ⏳ | Strengthen Methods — StarBEAST3 justification, MCMC diagnostics (Phase 4) |
+| ⏳ | Expand Discussion — biogeography + conservation (Phase 5) |
+| ⏳ | Add Limitations section (Phase 6) |
+
+**Resume tomorrow:** Open [`manuscript/literature_review/STEP_BY_STEP_GUIDE.md`](manuscript/literature_review/STEP_BY_STEP_GUIDE.md) at **Phase 1** (if not read) or **Phase 3** (Introduction), with Zotero and the Google Doc side by side.
 
 ---
 
@@ -122,10 +137,13 @@ C:\Users\galag\GitHub\jobb-ansökningar\research\galagos\
 
 ## Likely next steps
 
-1. **Manuscript** — continue editing in Google Docs; use `manuscript\literature_review\synthesis\meta_review.md` as a revision checklist; export figures from `galago_full_MCC.tree` / `visualizations\` when needed.
-2. **Figures** — review SVG/PNG in `2025_galagoides_starbeast3\visualizations\`.
-3. **Submission prep** — data availability statement, GenBank accessions, supplementary alignments.
-4. **Commit docs** — `FILE_ORGANIZATION.md` and tree explanation markdown are tracked in git; MCMC logs/trees/FASTAs stay gitignored.
+1. **Phase 3 — Introduction** — Google Docs + Zotero + `literature_review/synthesis/insights_q2_galago_systematics.md`; emphasise first Malawi molecular data.
+2. **Phase 4 — Methods** — cite StarBEAST3 and locus choice (`insights_q1_coalescent_methods.md`); report ESS / chain length from `logs/galago_full.txt`.
+3. **Phase 5 — Discussion** — biogeography (`insights_q3_biogeography.md`) and conservation (`insights_q5_conservation_genetics.md`).
+4. **Phase 6 — Limitations** — Malawi *n*=2, no absolute dating, no introgression tests (`synthesis/meta_review.md`).
+5. **Zotero housekeeping (optional)** — sub-collections by section, `must-cite` tags, Find Available PDF.
+6. **Figures** — `phylogenetic_analyses/2025_galagoides_starbeast3/visualizations/` or export from MCC tree in FigTree.
+7. **Submission prep** — data availability statement, GenBank accessions, supplementary alignments.
 
 ---
 
