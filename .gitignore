@@ -10,10 +10,13 @@ desktop.ini
 
 # Large local data archives (kept on disk, not in git)
 sequences/
-phylogenetic_analyses/revbayes/output/
-phylogenetic_analyses/revbayes/trees/
-phylogenetic_analyses/revbayes/till_jn/
-phylogenetic_analyses/revbayes/data/allSequencesAligned/
+phylogenetic_analyses/2025_galagoides_starbeast3/archive/
+phylogenetic_analyses/2025_galagoides_starbeast3/config/*.state
+phylogenetic_analyses/2025_galagoides_starbeast3/logs/*
+!phylogenetic_analyses/2025_galagoides_starbeast3/logs/*.txt
+phylogenetic_analyses/2025_galagoides_starbeast3/sequences/
+phylogenetic_analyses/2025_galagoides_starbeast3/trees/*
+!phylogenetic_analyses/2025_galagoides_starbeast3/trees/*.md
 phylogenetic_analyses/divergence_dating/logs/
 sampling_and_metadata/malawi/
 spatial_data/

@@ -29,23 +29,23 @@ Markdown exports and AI review notes live in the related **galagos** repo (see b
 
 The publication-ready multispecies coalescent analysis is **finished** with excellent convergence (ESS > 12,000 for key parameters). It uses **verified correct sequences** (Nov 2025).
 
-**Location (not in this repo):**
+**Location (in this repo):**
 
 ```
-C:\Users\galag\GitHub\jobb-ansökningar\research\galagos\data\phylogenetic\analyses\2025_galagoides_starbeast3\
+phylogenetic_analyses\2025_galagoides_starbeast3\
 ```
 
 | What | Path |
 |------|------|
-| **BEAST XML (load this to re-run)** | `config\Galago_StarBeast3_full.xml` |
-| Resume state | `config\Galago_StarBeast3_full.xml.state` |
-| MCMC log (Tracer) | `logs\galago_full.log` |
-| Posterior species trees | `trees\galago_full.species.trees` |
-| **MCC tree (figures)** | `trees\galago_full_MCC.tree` |
-| Input FASTAs (6 loci) | `sequences\*_speciesclean.fasta` |
-| Species mapping | `sequences\species_mapping.txt` |
-| Tree docs | `trees\TREE_FILES_EXPLANATION.md`, `MCC_TREE_ANNOTATIONS_EXPLAINED.md` |
-| Full file index | `FILE_ORGANIZATION.md` |
+| **BEAST XML (load this to re-run)** | `phylogenetic_analyses\2025_galagoides_starbeast3\config\Galago_StarBeast3_full.xml` |
+| Resume state | `phylogenetic_analyses\2025_galagoides_starbeast3\config\Galago_StarBeast3_full.xml.state` |
+| MCMC log (Tracer) | `phylogenetic_analyses\2025_galagoides_starbeast3\logs\galago_full.log` |
+| Posterior species trees | `phylogenetic_analyses\2025_galagoides_starbeast3\trees\galago_full.species.trees` |
+| **MCC tree (figures)** | `phylogenetic_analyses\2025_galagoides_starbeast3\trees\galago_full_MCC.tree` |
+| Input FASTAs (6 loci) | `phylogenetic_analyses\2025_galagoides_starbeast3\sequences\*_speciesclean.fasta` |
+| Species mapping | `phylogenetic_analyses\2025_galagoides_starbeast3\sequences\species_mapping.txt` |
+| Tree docs | `phylogenetic_analyses\2025_galagoides_starbeast3\trees\TREE_FILES_EXPLANATION.md`, `MCC_TREE_ANNOTATIONS_EXPLAINED.md` |
+| Full file index | `phylogenetic_analyses\2025_galagoides_starbeast3\FILE_ORGANIZATION.md` |
 
 **Model:** StarBEAST3 in BEAST 2.7.8 · 6 loci (12S, 16S, CYTB, IRBP, vWF es28, vWF in11) · HKY+Γ per locus · relaxed clock · Yule speciation.
 
@@ -54,7 +54,7 @@ C:\Users\galag\GitHub\jobb-ansökningar\research\galagos\data\phylogenetic\analy
 ### Older / invalid work — do not use for publication
 
 - An earlier concatenated BEAST run had **incorrect sequences** (documented in galagos repo `NEXT_STEPS.md`).
-- **RevBayes** trees in this repo (`phylogenetic_analyses\revbayes\`) are legacy (~2016, Galagoides naming).
+- **Legacy RevBayes** work (~2016) was removed from this repo; originals remain on OneDrive (`RevBayes\` migration folder).
 - **Legacy vocal manuscript** in `legacy_manuscripts\` is a separate acoustic project, not the genetic phylogeny paper.
 
 ---
@@ -69,7 +69,7 @@ C:\Users\galag\GitHub\jobb-ansökningar\research\galagos\data\phylogenetic\analy
 **To re-run the analysis:**
 
 1. Open **BEAST** from the Windows install (`BEAST.v2.7.7.Windows`).
-2. **File → Load** → `...\2025_galagoides_starbeast3\config\Galago_StarBeast3_full.xml`
+2. **File → Load** → `phylogenetic_analyses\2025_galagoides_starbeast3\config\Galago_StarBeast3_full.xml`
 3. Run (or Resume if `.state` exists).
 4. Check convergence: **Tracer** → `galago_full.log`
 5. Summarize trees: **TreeAnnotator** on `galago_full.species.trees` → MCC tree
@@ -87,7 +87,7 @@ C:\Users\galag\GitHub\paragalago-phylogeny\
 ├── DATA_LAYOUT.md
 ├── manuscript/              Google Docs links
 ├── sequences/               [local] multilocus alignments
-├── phylogenetic_analyses/   [local] RevBayes + BEAST tutorial
+├── phylogenetic_analyses/   StarBEAST3 analysis + BEAST tutorial
 ├── sampling_and_metadata/   [local] Excel sheets, Malawi field data
 ├── spatial_data/            [local] QGIS + KMZ maps
 ├── grants_and_reports/      grant PDFs/DOCs (in git)
@@ -105,8 +105,8 @@ C:\Users\galag\GitHub\jobb-ansökningar\research\galagos\
 
 - GitHub: https://github.com/ulfboge/galagos  
 - Manuscript markdown: `docs\publication\manuscript\`  
-- StarBEAST3 analysis: `data\phylogenetic\analyses\2025_galagoides_starbeast3\`  
-- Session notes: `docs\project\SESSION_SUMMARY_2026-01-19.md`
+- Session notes: `docs\project\SESSION_SUMMARY_2026-01-19.md`  
+- StarBEAST3 analysis moved here (June 2026): `phylogenetic_analyses\2025_galagoides_starbeast3\`
 
 ---
 
@@ -125,7 +125,7 @@ C:\Users\galag\GitHub\jobb-ansökningar\research\galagos\
 1. **Manuscript** — continue editing in Google Docs; export figures from `galago_full_MCC.tree` / `visualizations\` when needed.
 2. **Figures** — review SVG/PNG in `2025_galagoides_starbeast3\visualizations\`.
 3. **Submission prep** — data availability statement, GenBank accessions, supplementary alignments.
-4. **Optional** — copy or symlink the StarBEAST3 analysis folder into this repo if you want everything under one Cursor workspace (large files stay gitignored).
+4. **Commit docs** — `FILE_ORGANIZATION.md` and tree explanation markdown are tracked in git; MCMC logs/trees/FASTAs stay gitignored.
 
 ---
 
@@ -135,6 +135,6 @@ C:\Users\galag\GitHub\jobb-ansökningar\research\galagos\
 # Open this project in Cursor (from any terminal)
 cursor "C:\Users\galag\GitHub\paragalago-phylogeny"
 
-# Jump to the live StarBEAST3 analysis
-cd "C:\Users\galag\GitHub\jobb-ansökningar\research\galagos\data\phylogenetic\analyses\2025_galagoides_starbeast3"
+# Jump to the StarBEAST3 analysis
+cd "C:\Users\galag\GitHub\paragalago-phylogeny\phylogenetic_analyses\2025_galagoides_starbeast3"
 ```

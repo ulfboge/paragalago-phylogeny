@@ -1,9 +1,0 @@
-1. Set rb to be recognized as executable
-
-	sudo chmod 766 rb
-
-
-2. Add these lines to your ~/.bash_profile
-
-	export DYLD_LIBRARY_PATH=/filepath/to/revbayes/boost_1_55_0/stage/lib:$DYLD_LIBRARY_PATH
-	export PATH=/filepath/to/revbayes:$PATH

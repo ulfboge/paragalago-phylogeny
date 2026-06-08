@@ -28,7 +28,7 @@ Related active work (StarBEAST3, QGIS, markdown exports): [github.com/ulfboge/ga
 |--------|-------------|
 | [`manuscript/`](manuscript/) | Google Docs links and manuscript metadata |
 | [`sequences/`](sequences/) | Multilocus alignments (local; gitignored) |
-| [`phylogenetic_analyses/`](phylogenetic_analyses/) | RevBayes and BEAST analyses (mostly local) |
+| [`phylogenetic_analyses/`](phylogenetic_analyses/) | StarBEAST3 analysis and BEAST tutorial (outputs local) |
 | [`sampling_and_metadata/`](sampling_and_metadata/) | Field sampling spreadsheets and metadata |
 | [`spatial_data/`](spatial_data/) | QGIS projects and survey maps (local) |
 | [`grants_and_reports/`](grants_and_reports/) | Grant applications and preliminary reports |
